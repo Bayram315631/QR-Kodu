@@ -1,0 +1,12 @@
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\bin\Debug\QR Kodu.exe.config
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\bin\Debug\QR Kodu.exe
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\bin\Debug\QR Kodu.pdb
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\bin\Debug\QRCoder.dll
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\obj\Debug\QR Kodu.csprojAssemblyReference.cache
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\obj\Debug\QR_Kodu.Form1.resources
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\obj\Debug\QR_Kodu.Properties.Resources.resources
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\obj\Debug\QR Kodu.csproj.GenerateResource.cache
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\obj\Debug\QR Kodu.csproj.CoreCompileInputs.cache
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\obj\Debug\QR Kodu.csproj.CopyComplete
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\obj\Debug\QR Kodu.exe
+C:\Users\MABLO\Desktop\Görsel Programlama\QR Kodu\QR Kodu\obj\Debug\QR Kodu.pdb
